@@ -1,7 +1,6 @@
 <image src="https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/logo.png" align="right" style="margin-top:-2em;width:177px;margin-right:2em;display:inline-block;float:right;"></image>
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration) 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/190895005b7a4b25679bffd9a4f0dea1c3fe5630/custom_components/smartx_rts/brand/bouton_identique_v2.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/sophia-ha.png?raw=true)](https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
 
