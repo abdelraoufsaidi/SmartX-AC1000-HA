@@ -216,7 +216,7 @@ send_step_command:
           max: 50
 reboot:
   name: Reboot
-  description: Reboot the ESPSomfy Device
+  description: Reboot the AC-1000 Device
   target:
     entity:
       integration: smartx_rts
@@ -226,7 +226,7 @@ reboot:
 
 backup:
   name: Backup
-  description: Backup the ESPSomfy Device
+  description: Backup the AC-1000 Device
   target:
     entity:
       integration: smartx_rts
