@@ -65,7 +65,7 @@ The data payload for the event includes:
   * `My+Up+Down` - The my, up, and down buttons were all pressed at the same time
   
 
-![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/tree/main/custom_components/smartx_rts/brand/252093411-2fbf4ad8-86b4-4d4e-ac8e-ce04ba4adeeb.png)
+![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/252093411-2fbf4ad8-86b4-4d4e-ac8e-ce04ba4adeeb.png?raw=true)
 
 
 
