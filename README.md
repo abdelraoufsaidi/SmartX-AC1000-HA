@@ -1,10 +1,12 @@
 <table>
 <tr>
 <td valign="middle">
-<table cellpadding="0" cellspacing="0">
-<tr><td><a href="https://github.com/hacs/integration"><img src="https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge"></a></td></tr>
-<tr><td><a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration"><img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/sophia-ha.png"></a></td></tr>
-</table>
+<div>
+<a href="https://github.com/hacs/integration"><img src="https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge"></a>
+</div>
+<div style="margin-top:-10px;">
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration"><img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/sophia-ha.png"></a>
+</div>
 </td>
 <td width="180" align="right" valign="middle">
 <img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/logo.png" width="160">
