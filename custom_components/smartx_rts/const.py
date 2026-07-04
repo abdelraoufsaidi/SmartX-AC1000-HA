@@ -4,7 +4,7 @@ from homeassistant.const import Platform
 
 VERSION = "v2.4.7"
 DOMAIN = "smartx_rts"
-MANUFACTURER = "rstrouse"
+MANUFACTURER = "abdelraoufsaidi"
 API_CONTROLLER = "/controller"
 API_SHADES = "/shades"
 API_GROUPS = "/groups"
