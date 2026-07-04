@@ -11,7 +11,8 @@
 
 ![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/icon.png)
 
-Control up to 32 of your somfy shades in Home Assistant and set their position using an ESP32 and an inexpensive CC1101 tranceiver module.  You may also define up to 16 group shades that will allow you to move multiple covers at once.
+Control up to **32 Somfy RTS shades** in **Sophia Home Assistant** or **Home Assistant** using the **SmartX AC-1000** controller. Easily open, close, stop, and set the position of your shades. You can also create up to **16 shade groups** to control multiple covers simultaneously with a single command.
+
 
 # Requirements
 
@@ -34,7 +35,7 @@ After you have installed the plugin, you will be notified when there is a new ve
 # Functionality
 Once configured you will be able to open, close, and set the position of your shades using home assistant.  The integration will monitor the position of the shade regardless of how it was opened or closed.  This includes opening or closing it using a Telis remote.  Shades can be added to your dashboards and automated with Home Assistant services through automations.
 
-![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/tree/main/custom_components/smartx_rts/brand/213933858-95042e9e-0874-4e58-8123-87146439a20e.png)
+![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/213933858-95042e9e-0874-4e58-8123-87146439a20e.png?raw=true)
 
 # Services
 There are a number of automation services available.  You can find these in the [Services](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/wiki/Services) wiki.
