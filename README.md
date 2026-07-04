@@ -1,26 +1,18 @@
-<table align="center">
+<table>
 <tr>
-
-<td align="center" width="420">
-
-## OPEN HACS REPOSITORY
-
+<td valign="middle">
+<table cellpadding="0" cellspacing="0">
+<tr><td><a href="https://github.com/hacs/integration"><img src="https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge"></a></td></tr>
+<tr><td><a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration"><img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/sophia-ha.png"></a></td></tr>
+</table>
 </td>
-
-<td align="center">
-
-<img src="custom_components/smartx_rts/brand/logo.png" width="45">
-
+<td width="180" align="right" valign="middle">
+<img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/logo.png" width="160">
 </td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/home-assistant/assets/master/logo/logo.svg" width="45">
-
-</td>
-
 </tr>
 </table>
+
+# AC-1000 RTS-HA
 # AC-1000 RTS-HA 
 
 ![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/icon.png)
