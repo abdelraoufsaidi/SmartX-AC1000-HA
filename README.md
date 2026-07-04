@@ -3,7 +3,6 @@
 <td valign="middle">
 
 <a href="https://github.com/hacs/integration"><img src="https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge"></a>
-
 <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration"><img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/sophia-ha.png" style="margin-top:4px;"></a>
 
 </td>
