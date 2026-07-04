@@ -11,9 +11,7 @@
 
 
 # AC-1000 RTS-HA 
-
 ![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/icon.png)
-
 Control up to **32 Somfy RTS shades** in **Sophia Home Assistant** or **Home Assistant** using the **SmartX AC-1000** controller. Easily open, close, stop, and set the position of your shades. You can also create up to **16 shade groups** to control multiple covers simultaneously with a single command.
 
 
