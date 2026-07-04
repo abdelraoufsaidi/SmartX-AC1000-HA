@@ -8,6 +8,8 @@
 
 
 
+
+
 # AC-1000 RTS-HA 
 
 ![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/icon.png)
