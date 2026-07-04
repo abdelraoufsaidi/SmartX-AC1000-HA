@@ -3,7 +3,13 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration) 
 
 
-<image src="https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/sophia-ha-cropped.png?raw=true" align="left" style=";width:507px;margin-right:2em;display:inline-block;float:right;"></image>
+<img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/logo.png" align="right" style="width:177px;margin-top:-2em;margin-right:2em;">
+
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
+
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration">
+<img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/sophia-ha-cropped.png" width="507">
+</a>
 
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/sophia-ha.png?raw=true)](https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
