@@ -5,7 +5,7 @@
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/sophia-ha.png?raw=true)](https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
 
 
-
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](abdelraoufsaidi/SmartX-AC1000-HA/custom_components/smartx_rts/brand/bouton_identique_v2.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
 
 # AC-1000 RTS-HA 
 
