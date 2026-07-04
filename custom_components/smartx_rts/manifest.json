@@ -1,9 +1,7 @@
 {
   "domain": "smartx_rts",
   "name": "SmartX RTS",
-  "codeowners": [
-    "@rstrouse"
-  ],
+   "codeowners": ["@abdelraoufsaidi"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/rstrouse/SmartX-RTS/wiki/Configuring-the-Software",
