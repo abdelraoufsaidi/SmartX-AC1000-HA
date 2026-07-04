@@ -1,20 +1,12 @@
-<table>
-<tr>
-<td valign="middle">
-<div>
-<a href="https://github.com/hacs/integration"><img src="https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge"></a>
-</div>
-<div style="margin-top:-10px;">
-<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration"><img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/sophia-ha.png"></a>
-</div>
-</td>
-<td width="180" align="right" valign="middle">
-<img src="https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/logo.png" width="160">
-</td>
-</tr>
-</table>
+<image src="https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/logo.png" align="right" style="margin-top:-2em;width:177px;margin-right:2em;display:inline-block;float:right;"></image>
 
-# AC-1000 RTS-HA
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration) 
+
+
+<image src="https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/sophia-ha.png?raw=true" align="left" style="margin-top:-2em;width:507px;margin-right:2em;display:inline-block;float:right;"></image>
+
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/sophia-ha.png?raw=true)](https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
 
 # AC-1000 RTS-HA 
 
