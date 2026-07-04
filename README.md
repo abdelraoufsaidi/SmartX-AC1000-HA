@@ -2,10 +2,13 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration) 
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=smartx-ac-1000-ha&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](http://192.168.1.200:8123/_my_redirect/hacs_repository?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
 
 
 # AC-1000 RTS-HA 
+
+![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/logo.png)
+
 Control up to 32 of your somfy shades in Home Assistant and set their position using an ESP32 and an inexpensive CC1101 tranceiver module.  You may also define up to 16 group shades that will allow you to move multiple covers at once.
 
 # Requirements
