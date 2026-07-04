@@ -3,7 +3,7 @@
 <td valign="middle">
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
-
+<br/>
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://raw.githubusercontent.com/abdelraoufsaidi/SmartX-AC1000-HA/main/custom_components/smartx_rts/brand/sophia-ha.png)](https://my.home-assistant.io/redirect/hacs_repository/?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
 
 </td>
@@ -14,6 +14,7 @@
 </table>
 
 # AC-1000 RTS-HA
+
 # AC-1000 RTS-HA 
 
 ![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/icon.png)
