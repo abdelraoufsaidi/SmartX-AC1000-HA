@@ -5,9 +5,12 @@
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](http://192.168.1.200:8123/_my_redirect/hacs_repository?owner=abdelraoufsaidi&repository=SmartX-AC1000-HA&category=integration)
 
 
+![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/logo.png)
+
+
 # AC-1000 RTS-HA 
 
-![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/logo.png)
+![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/blob/main/custom_components/smartx_rts/brand/icon.png)
 
 Control up to 32 of your somfy shades in Home Assistant and set their position using an ESP32 and an inexpensive CC1101 tranceiver module.  You may also define up to 16 group shades that will allow you to move multiple covers at once.
 
@@ -32,7 +35,7 @@ After you have installed the plugin, you will be notified when there is a new ve
 # Functionality
 Once configured you will be able to open, close, and set the position of your shades using home assistant.  The integration will monitor the position of the shade regardless of how it was opened or closed.  This includes opening or closing it using a Telis remote.  Shades can be added to your dashboards and automated with Home Assistant services through automations.
 
-![image](https://user-images.githubusercontent.com/47839015/213933858-95042e9e-0874-4e58-8123-87146439a20e.png)
+![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/tree/main/custom_components/smartx_rts/brand/213933858-95042e9e-0874-4e58-8123-87146439a20e.png)
 
 # Services
 There are a number of automation services available.  You can find these in the [Services](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/wiki/Services) wiki.
@@ -63,7 +66,7 @@ The data payload for the event includes:
   * `My+Up+Down` - The my, up, and down buttons were all pressed at the same time
   
 
-![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/assets/47839015/2fbf4ad8-86b4-4d4e-ac8e-ce04ba4adeeb)
+![image](https://github.com/abdelraoufsaidi/SmartX-AC1000-HA/tree/main/custom_components/smartx_rts/brand/252093411-2fbf4ad8-86b4-4d4e-ac8e-ce04ba4adeeb.png)
 
 
 
